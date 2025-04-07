@@ -13,4 +13,7 @@ Containes a video version of PONG (the game) which uses a camera input to track 
 ## Authors
 Diogo Oliveira*, José Paixão*, Manuel Santos* and Pedro Maleita.
 
-* Students from the University of Coimbra
+(*) Students from the University of Coimbra
+
+## Demo Video
+Link: https://youtu.be/cwZULlM79F4
